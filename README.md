@@ -15,3 +15,6 @@ python php-8.1.0-dev.py
 using for .sh:<br>
 chmod +x php-8.1.0-dev.sh<br>
 ./php-8.1.0-dev.sh
+
+
+[shell.webm](https://github.com/0xTabun/php-8.1.0-dev-rce/assets/144548207/2f3437da-48fd-4f9c-a183-8e8830238260)
